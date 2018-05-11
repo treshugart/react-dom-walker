@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "browser": "dist/index.js",
+  "files": ["dist"],
   "scripts": {
     "prepublish": "zeropack",
     "test": "jest"
