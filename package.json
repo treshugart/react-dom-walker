@@ -1,9 +1,11 @@
 {
   "name": "react-dom-walker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "browser": "dist/index.js",
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "prepublish": "zeropack",
     "test": "jest"
